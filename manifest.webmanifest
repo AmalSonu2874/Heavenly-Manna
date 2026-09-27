@@ -1,0 +1,26 @@
+{
+  "name": "Heavenly Manna",
+  "short_name": "Manna",
+  "description": "Heavenly Manna — daily spiritual reading.",
+  "start_url": "./index.html#manna-2026-09-22",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f2e9dc",
+  "theme_color": "#6a2631",
+  "icons": [
+    {
+      "src": "FAVICON-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "FAVICON-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "heavenly-manna"
+}
